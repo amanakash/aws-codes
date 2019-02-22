@@ -14,7 +14,7 @@
 
 #### Others:
       
-* [Print S3 Request IDs](/S3/python/printS3RequestIDs.py): Print Amazon S3 Request ID pair required for troubleshooting.
+* [Print S3 Request IDs](/S3/python/printS3RequestIDs.py): Print Amazon S3 Request ID pair required for troubleshooting. [Reference](https://docs.aws.amazon.com/AmazonS3/latest/dev/troubleshooting.html#get-request-ids)
 * [S3 Post Policy](createPostPolicy.py): Generate S3 POST Policy. [Reference](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html#S3.Client.generate_presigned_post)
       
 #### Contact: [hi@ritishgumber.me](mailto:hi@ritishgumber.me)
