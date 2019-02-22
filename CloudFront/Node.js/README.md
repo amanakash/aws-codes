@@ -6,7 +6,7 @@
 
 
    
-   * [Signed URL/Cookies](SignedURL.js): create CloudFront Sogned URL or Cookies.
+   * [Signed URL/Cookies](SignedURL.js): create CloudFront Signed URL or Cookies.
   
 
 #### Contact: [hi@ritishgumber.me](mailto:hi@ritishgumber.me)
