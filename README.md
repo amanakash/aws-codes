@@ -1,16 +1,7 @@
-# AWS Sample codes:
+# [AWS Sample codes](/):
 
-## Amazon S3
+## [Amazon S3](/S3)
 
-1. [S3 Post Object Request](/S3/PostObject.html): S3 PostObject request. Upload object using form-data.
+## [Amazon CloudFront](/CloudFront)
 
-2. Node.js:
-   * Uploads:
-   
-     * [S3 PutPreSignedURL.js](/S3/Node.js/putPresignedUrl.js): create S3 preSignedUrl for putObject operation.
-     * [uploading file to S3 bucket](/S3/Node.js/uploadObjectUsingFileLocation.js): specify a file path and upload to S3 bucket.
-     
-3. Python:
-    * Others:
-      * [Print S3 Request IDs](/S3/python/printS3RequestIDs.py): Print Amazon S3 Request ID pair required for troubleshooting.
-      
+## [Amazon SES](/SES)
