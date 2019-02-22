@@ -6,4 +6,4 @@
 
  * [Python](python)
 
- * [S3 Post Object Request](/S3/PostObject.html): S3 PostObject request. Upload object using form-data.
+ * [S3 Post Object Request](PostObject.html): S3 PostObject request. Upload object using form-data.
