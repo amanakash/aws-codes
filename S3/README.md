@@ -6,7 +6,7 @@
 
  * [Python](python)
 
- * [S3 Post Object Request](PostObject.html): S3 PostObject request. Upload object using form-data.
+ * [S3 Post Object Request](PostObject.html): S3 PostObject request. Upload object using form-data. [Reference](https://docs.aws.amazon.com/AmazonS3/latest/API/RESTObjectPOST.html)
 
 #### Contact: [hi@ritishgumber.me](mailto:hi@ritishgumber.me)
 
