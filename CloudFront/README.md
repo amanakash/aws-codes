@@ -3,3 +3,7 @@
 ## Amazon CloudFront:
 
  * [Node.js](Node.js)
+
+#### Contact: [hi@ritishgumber.me](mailto:hi@ritishgumber.me)
+
+#### [Issues](https://github.com/ritishgumber/aws-codes/issues)
