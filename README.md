@@ -1,7 +1,7 @@
 # [AWS Sample codes](/):
 
-## [Amazon S3](/S3)
+- ## [Amazon S3](/S3)
 
-## [Amazon CloudFront](/CloudFront)
+- ## [Amazon CloudFront](/CloudFront)
 
-## [Amazon SES](/SES)
+- ## [Amazon SES](/SES)
