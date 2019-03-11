@@ -25,9 +25,9 @@
     ```
 
    * List objects of a particualr date range:
-    ```
+    ``
     aws s3api list-objects --bucket bucket-name --query 'Contents[?LastModified>=`2018-12-05` && LastModified<=`2018-12-06`][Key]' --output text | xargs -I {} aws s3api delete-object --bucket ritish-cross --key {}
-    ```
+    ``
 
    * List objects of a particular storage class:
     ```
